@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-cout << "Welcome To CodeWithHarry";
+cout << "MEHAK";
 return 0;
 }
 cout <<
@@ -281,7 +281,7 @@ Class_name ObjectName;
 class className { // The class
 public: // Access specifier
 className() { // Constructor
-cout << "Code With Harry";
+cout << "MEHAK";
 }
 };
 
